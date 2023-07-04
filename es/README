@@ -1,1 +1,9 @@
-spanish translation
+Public domain.  (Originally written by Karl Berry, 2004.)
+
+This spanish translation of "TeX for the Impatient" was made by Pep Diz
+
+TeX for the Impatient is a GNU project at http://savannah.gnu.org/projects/teximpatient.
+
+Most updated version is always in CTAN at https://ctan.org/pkg/impatient
+
+Development of spanish translation (among others) is done in Github at https://github.com/pepdiz/impatient-tr
